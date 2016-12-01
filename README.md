@@ -18,11 +18,11 @@ Show some support by following me via Twitter
 http://twitter.com/codingplanets
 
 # Disclaimer
-All illegal use is forbidden,
+illegal use is forbidden,
  
 I do not contribute nor do i support
  
-Illegal actions with this peice of code
+Illegal actions executed this piece of code
 
 # Updates
 Add proxylist or Tor encase of IP ban
